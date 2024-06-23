@@ -55,7 +55,7 @@ February 2022 - December 2022
 
 ## Projects
 
-- [Retrieval-Augmented Generation (RAG) Searching Web Application](/iTrust2/)
-- [iTrust2 - Software Engineering Project](/hexoWebsite/2024/06/22/any-title/)
-- [Skin Cancer Detection Web Application](/iTrust2/)
+<!-- - [Retrieval-Augmented Generation (RAG) Searching Web Application](/iTrust2/) -->
+- [iTrust2 - Software Engineering Project](/hexoWebsite/2024/06/22/iTrust2/)
+<!-- - [Skin Cancer Detection Web Application](/iTrust2/) -->
 
