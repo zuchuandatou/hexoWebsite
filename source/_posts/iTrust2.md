@@ -12,6 +12,9 @@ tags:
 - Implemented CI/CD processes using Jenkins to automate testing and enhance deployment workflow
 - Applied Agile Development methodology in this 3-month project, including designing, implementation, and testing
 
-![Patient manage advocates](iTrust2/patients_manage_advocates.png)
+## Screenshots
 
-![Admin manage user updated key](iTrust2/ManageUsersUpdatedKey.png)
+{% asset_img patients_manage_advocates.png Patient manage advocates %}
+<!-- ![Patient manage advocates](iTrust2/patients_manage_advocates.png) -->
+
+<!-- ![Admin manage user updated key](iTrust2/ManageUsersUpdatedKey.png) -->
