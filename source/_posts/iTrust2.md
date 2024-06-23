@@ -5,6 +5,17 @@ tags:
 ---
 
 # iTrust2 - Software Engineering Project
+- Tech Stack
+  - Language: Java
+  - Backend Framework: SpringBoot
+  - ORM: MyBatis
+  - Database: MySQL
+  - Test: JUnit
+  - Frontend: AngularJS, html/css
+  - Build: Maven
+  - CI/CD: Jenkins
+
+
 
 - Led a team of 5 members to design and implement new features for an Electronic Health Record system (EHR) Web App
 - Developed a backend infrastructure using SpringBoot, MyBatis and MySQL database
@@ -14,7 +25,5 @@ tags:
 
 ## Screenshots
 
-{% asset_img patients_manage_advocates.png Patient manage advocates %}
-<!-- ![Patient manage advocates](iTrust2/patients_manage_advocates.png) -->
-
-<!-- ![Admin manage user updated key](iTrust2/ManageUsersUpdatedKey.png) -->
+{% asset_img patients_manage_advocates.png Patient manage advocates%}
+{% asset_img ManageUsersUpdatedKey.png Admin manage user updated key%}

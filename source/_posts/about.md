@@ -4,22 +4,12 @@ date: 2024-06-22 14:49:02
 tags:
 academia: true
 ---
+<!-- reference: https://xiamu-ssr.github.io/Hexo/2024/06/19/2024-06-19-12-31-52/  -->
+
 # About Me
 
-### Education
+#### 25NewGrad, Looking for full time SDE / DE / DevOps jobs!
 
-#### New York University
-**MS in Computer Engineering**  
-*New York City, NY*  
-September 2023 - May 2025  
-Relevant Courses: Computer Architecture, Machine Learning, Database, Internet Protocol
-
-#### North Carolina State University
-**BS in Computer Science**  
-*Raleigh, NC*  
-August 2019 - December 2022  
-Awards: Dean’s List (five semesters), Research Experience for Undergraduate Award (two semesters)  
-Relevant Courses: Data Structure, OS, Software Development, Computer Security, Data Mining, NLP
 
 ### Experience
 
@@ -55,5 +45,6 @@ February 2022 - December 2022
 
 ### Projects
 
+- [Retrieval-Augmented Generation on Google Cloud Platform](/hexoWebsite/2024/06/23/rag/)
 - [iTrust2 - Software Engineering Project](/hexoWebsite/2024/06/22/iTrust2/)
 

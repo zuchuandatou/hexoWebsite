@@ -3,7 +3,7 @@ favicon: /img/favicon.png
 avatar: /img/avatar.jpg
 # if author sets in hexo_config, this string doesn't work
 author: 'Zehao Li'
-author_bio: 'A passionate Software Engineer. Open to work!'
+author_bio: 'A passionate Software Engineer. Open to work! NC State B.S. Comp Sci NYU M.S. Comp Eng'
 
 since: 2020
 
@@ -42,7 +42,7 @@ e_social_links:
 cv_dl:
   enable: true
   dir: /attaches/CV.pdf
-  description: My Detail CV.
+  description: Detail CV.
 
 # Box-shadow
 # display box-shadow on page or not
