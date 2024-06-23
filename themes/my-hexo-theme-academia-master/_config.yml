@@ -13,7 +13,7 @@ since: 2020
 menu:
   # Publications: /#Publications
   About: /
-  Blog: /
+  # Blog: /
 
 # flink picture will load if avator link calls on error
 loading_bg:

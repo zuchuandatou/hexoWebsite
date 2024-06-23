@@ -1,10 +1,11 @@
 ---
-title: iTrust2
+title: iTrust2 - Software Engineering Project
 date: 2024-06-22 23:34:42
 tags:
 ---
 
-# iTrust2 - Software Engineering Project
+### [Github Repo](https://github.com/zuchuandatou/iTrust2)
+
 - Tech Stack
   - Language: Java
   - Backend Framework: SpringBoot
@@ -24,6 +25,7 @@ tags:
 - Applied Agile Development methodology in this 3-month project, including designing, implementation, and testing
 
 ## Screenshots
-
+### Patient view wireframe
 {% asset_img patients_manage_advocates.png Patient manage advocates%}
+### Admin view wireframe
 {% asset_img ManageUsersUpdatedKey.png Admin manage user updated key%}

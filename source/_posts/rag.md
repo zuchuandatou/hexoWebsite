@@ -21,8 +21,9 @@ tags:
 - Optimized search performance and system efficiency by integrating Facebook AI Similarity Search (FAISS) and VLLM, reducing document searching time by 80% while improving the precision of contextually relevant answers
 
 ## Screenshots
+### Final Poster
 {% asset_img poster.png Poster%}
-
+### Wireframe Design
 {% asset_img DBGT_GUI.png Wireframe Design%}
 
 
