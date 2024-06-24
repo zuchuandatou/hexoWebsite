@@ -10,6 +10,10 @@ academia: true
 
 <br><br>
 
+<div style="width: 300px; height: 300px; border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+  <img src="/2024/06/23/about/progress.png" alt="Progress Image" style="width: 100%; height: auto;">
+</div>
+
 
 # What I've been working on:
 <!-- <style>
