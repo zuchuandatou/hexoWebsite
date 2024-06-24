@@ -10,9 +10,12 @@ academia: true
 
 <br><br>
 
-<div style="width: 300px; height: 300px; border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; overflow: hidden;">
-  <img src="/2024/06/23/about/progress.png" alt="Progress Image" style="width: 100%; height: auto;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <div style="width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+    <img src="https://raw.githubusercontent.com/zuchuandatou/hexoWebsite/main/source/_posts/about/progress.png" alt="Progress Image" style="width: 100%; height: auto;">
+  </div>
 </div>
+
 
 
 # What I've been working on:
